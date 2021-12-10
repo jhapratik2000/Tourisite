@@ -1,11 +1,11 @@
-# YelpCampind
-Best Indian Campsites WebApp
+# Tourisite_India
+Best Indian tourist sites WebApp
 
-**Live at -** http://yelpcampind.herokuapp.com/
+**Live at -** https://serene-garden-03937.herokuapp.com/campgrounds
 
-# ![YelpCamp India](https://res.cloudinary.com/dws2yfkqq/image/upload/v1587536264/YelpCamp_npbwdy.png)
+# ![Tourisite India](https://res.cloudinary.com/dqieqhyce/image/upload/v1639146550/Yelpcamp/Screenshot_269_ngedtt.png)
 
-YelpCamp is a web application built using NodeJS, ExpressJS, RESTFUL Routes, Embedded JavaScript (EJS) with a few more frameworks and middle-wares used as the application is developed. 
+Tourisite is a web application built using NodeJS, ExpressJS, RESTFUL Routes, Embedded JavaScript (EJS) with a few more frameworks and middle-wares used as the application is developed. 
 This application is a clone of Yelp, a US based, popular social networking site, that focuses on reviewing businesses and sharing information about them.
 
 ## Technology Description:
@@ -14,8 +14,8 @@ This application is a clone of Yelp, a US based, popular social networking site,
 - [MongooseJS](http://mongoosejs.com/) is used for Back-End Database operations with MongoDB NoSQL Database.
 - [Body-Parser](https://github.com/expressjs/body-parser/) is used to parse the data that was received as a result of HTTP POST request.
 - [Express.Static()](https://expressjs.com/en/starter/static-files.html) is used to serve the Static files CSS, JS, etc. in the directory as specified.
-- [Embedded JavaScript](https://github.com/abhishek363036/YelpCamp/blob/master) is used to embed the JavaScript within the HTML tags to implement the logic.
-- [PassportJS](https://github.com/abhishek363036/YelpCamp/blob/master/www.passportjs.org) is used to provide user authentication to the application.
+- [Embedded JavaScript] is used to embed the JavaScript within the HTML tags to implement the logic.
+- [PassportJS] is used to provide user authentication to the application.
 - **Sanitizer** to sanitize the values of the HTML input that arrives as a result of POST request.
 - **module.exports** to refactor the app.js file into multiple sub-files.
 - Some other self-defined **middlewares** to improve the application such as:
